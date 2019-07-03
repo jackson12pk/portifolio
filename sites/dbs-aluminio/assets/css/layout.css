@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Hind:400,600');
+html{
+	position: relative;
+	min-height: 100%;
+}
+body{
+	background: #f3f3f3;
+	font-family: 'Hind', sans-serif;
+}
+a:hover{
+	text-decoration: none;
+}
+h1,h2{
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+p{
+	font-size: 0.9em;
+	line-height: 1.2em;
+	color: #6b6b6b;
+}
+iframe{
+	padding-bottom: 20px;
+}
+.btn:hover{
+	color: #fff;
+}
+.btn{
+	background: #064831;
+	color: #fff;
+}
+
+.form-control {
+	border:1px solid #064831;
+	margin-bottom: 20px;
+}
+.navbar-right{
+	margin-right: 0;
+}
+#nav-top{
+	padding: 10px 0;
+	background: #ededed;
+	margin-bottom: 0;
+	font-weight: 400;
+}
+#nav-top a{
+	padding: 0;
+}
+#nav-top li,#nav-top li a{
+	display: inline-block;
+}
+#nav-top li img{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+
+.navbar-brand{
+	height: auto;
+}
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.navbar-default{
+	background: #fff;
+}
+
+.navbar-nav li a{
+	font-weight: 600;
+	font-family: 'Hind', sans-serif;
+	color: black!important;
+}
+
+#slides{
+	position: relative;
+	height: 600px;
+}
+
+.banner header{
+	color: #fff;
+	padding: 40px 15px;
+	border-left: 15px solid rgba(140,140,140, 0.8);
+	top: 50%;
+	position: absolute;
+	transform: translateY(-50%);
+	font-size: 3em;
+}
+.banner p{
+	color: #fff;
+	font-size: 0.5em;
+	width: 90%;
+}
+#produtos{
+	padding-top: 60px;
+}
+.produtos{
+	margin-bottom: 60px;
+}
+.produtos h2{
+	line-height: 25px;
+}
+.produtos img{
+	margin-bottom: 25px;
+}
+#info{
+	background: #fff;
+	padding: 60px 0;
+}
+.faleconosco h2,.faleconosco img,.ondeestamos h2{
+	padding-bottom: 30px;
+	font-size: 1.5em;
+	text-transform: capitalize;
+}
+.faleconosco{
+	padding-bottom: 30px;
+}
+.wrapper{
+	padding-top: 60px;
+}
+.wrapper h2,h3{
+	padding-bottom: 25px;
+}
+.wrapper h3{
+	color: #064831;
+	font-weight: 600;
+}
+.wrapper .row{
+	padding-bottom: 70px;
+}
+#sobre-imgs{
+	padding: 50px 0;
+	background: #064831;
+}
+.sobre img{
+	/* margin-bottom: 30px; */
+}
+.img-produtos p{
+	padding-bottom: 70px;
+}
+.img-produtos h3{
+	font-size: 1.2em;
+	padding: 10px 0;
+	padding-top: 20px;
+}
+
+.link-voltar{
+	display: inline-block;
+}
+.link-voltar a{
+	color: #242127;
+	font-size: 0.85em;
+}
+.msg{
+	width: 200px;
+}
+#map{
+	position: relative;
+	height: 420px;
+	margin-bottom: 25px;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	font-size: 0.9em;
+	font-weight: 600;
+	background-color: #242424;
+	color: #5e5e5e;
+}
+
+button#btnSubmit{
+	background: 064831;
+	width: 200px;
+	height: 40px;
+	color: #fff;
+}

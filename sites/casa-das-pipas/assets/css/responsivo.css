@@ -1,0 +1,172 @@
+/*
+Project: Casa das Pipas;
+Author: Jackson Pereira;
+Company: Recife Sites;
+Version: 1.0;
+*/
+
+/* ==== Max 400px ====*/
+@media (max-width: 400px){
+  body{
+    margin-bottom: 125px!important;
+  }
+  .footer{
+    height: 160px;
+  }
+}
+
+/* ==== Max 767px ====*/
+@media (max-width: 767px){
+  .banner .container{
+    padding-left: 15px;
+  }
+  .content-produtos .item .desc-item{
+
+  }
+  .fix-pad{
+    padding:0 15px; 
+  }
+  #slides .container{
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width: 100%;
+    background:rgba(0,0,0,0.4);
+    padding: 30px 50px;
+    border-radius: 0 200px 200px 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+  }
+}
+/* ==== Max 991px ====*/
+@media (max-width: 991px){
+  .navbar{
+    height: auto;
+  }
+
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    border: none;
+    box-shadow: none;
+  }
+
+  .navbar-header {
+    float: none;
+    position: relative;
+  }
+
+  .navbar-left,.navbar-right{
+    float: none!important;
+  }
+  
+  .navbar-toggle{
+    display: block;
+  }
+  
+  .navbar-collapse{
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  
+  .navbar-fixed-top{
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  
+  .navbar-collapse.collapse{
+    display: none!important;
+  }
+
+  .navbar-nav{
+    float: none!important;
+  }
+
+  .navbar-nav > li{
+    float: none;
+  }
+  
+  .navbar-nav > li > a{
+    text-align: center;
+  }
+
+  .navbar-default .navbar-toggle .icon-bar{
+    background-color:#000000;
+    border: none;
+    border-radius: 25px;
+  }
+  
+  .collapse.in{
+    display:block!important;
+    padding-top: 60px;
+  }
+
+  .navbar-default .navbar-toggle{
+    position: absolute;
+    left: 50%;
+    z-index: 100;
+    margin: 0;
+    padding: 15px;
+    top: 60px;
+    margin-left: -30px;
+  }
+
+  .navbar-toggle .icon-bar{
+    width: 26px;
+    height: 6px;
+  }
+  
+  .navbar-toggle .top-bar{
+    transform-origin: 15% 100%;
+  }
+
+  .navbar-toggle .bottom-bar{
+    transform-origin: 0% -20%;
+  }
+
+  .navbar-right{
+    max-width: 150px;
+    margin: 0 auto;
+    padding: 10px 0;
+    height: auto; 
+    display: block;
+  }
+
+  .navbar-right .sociais{
+    display: inline;
+    padding-left: 18px;
+  }
+
+  .navbar-brand img{
+    width:initial;
+    filter: drop-shadow(2px 2px 5px rgba(0,0,0,0.2));
+    margin-left: -150px;
+  }
+
+  .search{
+    margin-bottom: 25px;
+  }
+
+  .navbar-toggle .icon-bar+.icon-bar{
+    margin-top: 3px;
+  }
+
+  .wrapper header h1::before{
+    top: 110px;
+  }
+}
+
+/* ==== Max 991px ====*/
+@media (max-width: 991px){
+.contato-home{
+  padding-bottom: 50px; 
+}
+
+textarea{
+  max-height: 100px;
+}
+
+}
+/* ==== Min 1200px ====*/
+@media (min-width: 1200px){
+
+}

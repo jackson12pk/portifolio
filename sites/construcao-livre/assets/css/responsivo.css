@@ -1,0 +1,87 @@
+/*
+Project: ;
+Author: ;
+Company: Recife Sites;
+Version: 1.0;
+*/
+
+/* ==== Max 767px ====*/
+@media (max-width: 670px){
+  .header header{
+    margin-top: 25px;
+  }
+
+  .header{
+    height: 225px;
+  }
+
+  .conheca .brand{
+    max-width: 100px;
+    margin-left: -48px;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+
+  b{
+    font-size: 30px; 
+  }
+
+  .space{
+    padding: 0 25px; 
+  }
+
+  .header .btn-store img{
+    max-width: 100px;
+    margin-top: 35px;
+  }
+  .conheca {
+    height: 500px;
+  }
+  .conheca .phone {
+    width: 200px;
+    left: 50%;
+    top: 100%;
+    margin-left: -100px;
+    margin-top: -200px;
+  }
+  .contato{
+    padding:20px 0; 
+  }
+  .contato .container img{
+    max-width: 100px;
+  }
+  .contato .container{
+    margin-top: -35px;
+  }
+  .contato h1{
+    font-size: 1em;
+  }
+  .contato i{
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  .participacao {
+    height: 500px;
+  }
+  .participacao header{
+    margin-top: 240px;
+  }
+  .footer{
+    font-size: 0.875em;
+  }
+}
+/* ==== Min 768px ====*/
+@media (min-width: 768px){
+	
+}
+
+/* ==== Min 992px ====*/
+@media (min-width: 992px){
+
+}
+/* ==== Min 1200px ====*/
+@media (min-width: 1200px){
+
+}

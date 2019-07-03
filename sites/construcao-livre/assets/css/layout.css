@@ -1,0 +1,201 @@
+/*
+Project: Construção Livre - Site;
+Author: Jackson Pereira ;
+Company: Recife Sites;
+Version: 1.0;
+*/
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body{
+	margin-bottom: 150px!important;
+  font-family: 'quicksand', sans-serif;
+  color: #fff;
+  font-weight: 500;
+}
+
+b, strong{
+	font-weight: 700;
+}
+
+a,
+a:hover,
+a:focus{
+	color: inherit;
+	outline: none;
+	text-decoration: none;
+}
+
+
+h1{
+  font-size: 1.875em;
+}
+
+b{
+  font-size: 1.875em;
+}
+
+.transitions, a{
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -ms-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+}
+
+.header{
+  background: #e88a30;
+  height: 250px;
+}
+
+.header::before{
+  content: '';
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background: rgba(0,0,0,0.2);
+  height: 50px;
+}
+
+.header .btn-store img{
+  margin-top: 25px;
+}
+
+.header header{
+  margin-top: 50px;
+}
+
+.header .brand{
+  margin: 0 auto;
+}
+
+.space{
+  padding: 0 50px; 
+}
+
+.conheca::after{
+  content:'';
+  position: absolute;
+  width: 100%;
+  height: 510px;
+  left: 0;
+  bottom: 0;
+  background: #0193dd;
+  opacity: 0.8;
+}
+.conheca{
+  height: 510px;
+  position: relative;
+  background: url(../img/bg-blue.png);
+  background-size: cover;
+}
+
+.conheca header{
+  position: relative;
+  margin-top: 100px;
+  z-index: 10;
+}
+
+.conheca .brand{
+  position: absolute;
+  left: 50%;
+  margin-left: -62.5px;
+  margin-top: -60px;
+  opacity: 1;
+  z-index: 5;
+}
+
+.conheca::before{
+  content: '';
+  position: absolute;
+  width: 2px;
+  background: #fff;
+  height: 70px;
+  z-index: 10;
+  opacity: 0.7;
+  top: -130px;
+  margin-left: -1px;
+}
+
+.conheca .phone{
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  position: absolute;
+  z-index: 15;
+}
+
+.orange{
+  height: 20px;
+  background: #e88a30;
+
+}
+
+.participacao header{
+  color: #0193dd;
+  margin-top: 360px;
+}
+
+.participacao{
+  height: 600px;
+  background:#fff;
+}
+
+.contato{
+  background: #0193dd;
+  padding: 50px 0; 
+  line-height: 2.5em;
+}
+
+.contato .container{
+  position: absolute;
+  width: 100%;
+  margin-top: -80px;
+}
+
+.contato i{
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+/*====== Footer =====*/
+.footer {
+  position: absolute;
+  height: 150px;
+  bottom: 0;
+  width: 100%;
+  padding:35px 0; 
+  line-height: 1.2em;
+  background-color: #e88a30;
+  color: #000000;
+}
+
+.footer::after {
+  content: '';
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+.footer .local{
+  border-radius: 50%;
+  background: #e88a30;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  padding: 20px 16px; 
+  left: 50%;
+  margin-left: -30px;
+  bottom: 10px;
+  z-index: 50;
+}
+
+.footer .local i{
+  font-size: 2em;
+}

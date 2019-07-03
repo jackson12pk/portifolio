@@ -1,0 +1,109 @@
+/*
+Project: ;
+Author: ;
+Company: Recife Sites;
+Version: 1.0;
+*/
+
+/* ==== Max 367px ====*/
+@media (max-width: 367px){
+  .body{
+    margin-bottom: 190px!important;
+  }
+  .footer{
+    height:190px;
+  }
+  .marca h2{
+    font-size: 1.125em;
+  }
+}
+/* ==== Max 767px ====*/
+@media (max-width: 767px){
+  .navbar-header {
+    float: none;
+    position: relative;
+  }
+
+  .navbar-left,.navbar-right{
+    float: none!important;
+  }
+  
+  .navbar-toggle{
+    display: block;
+  }
+  
+  .navbar-collapse{
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  
+  .navbar-fixed-top{
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  
+  .navbar-collapse.collapse{
+    display: none!important;
+  }
+
+  .navbar-nav{
+    float: none!important;
+  }
+
+  .navbar-nav > li{
+    float: none;
+  }
+  
+  .navbar-nav > li > a{
+    text-align: center;
+  }
+  
+  .collapse.in{
+    display:block!important;
+  }
+  .navbar .navbar-collapse{
+    background:rgba(0,0,0,0.95);
+    height: 70vh;
+  }
+  .navbar-brand {
+  position: absolute;
+  height: auto;
+  float: none;
+  padding: 0;
+  line-height: 0;
+  left: 50%;
+  margin-left: -60px!important;
+  top: -100px;
+  border-top: 3px solid #fff;
+  padding-top: 10px;
+}
+
+.navbar-brand img{
+  display: initial;
+  width: 120px;
+}
+}
+/* ==== Min 768px ====*/
+@media (min-width: 768px){
+  .footer .container{
+    width: 60%;
+  }
+}
+
+/* ==== Max 991px ====*/
+@media (max-width: 991px){
+  .espaco-interna .img-espaco-planta img, .espaco-interna .slide-espaco img{
+  margin-top: 50px;
+  }
+  #btnEnviar{
+    bottom: 0;
+  }
+}
+/* ==== Min 992px ====*/
+@media (min-width: 992px){
+
+}
+/* ==== Min 1200px ====*/
+@media (min-width: 1200px){
+
+}
