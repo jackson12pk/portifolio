@@ -17,7 +17,7 @@ body{
 	/* background: url('..//img/bg.gif'); */
 	background-position: top center;
 	background-size: cover;
-	margin-bottom: 150px!important;
+	margin-bottom: 300px!important;
 	background: rgba(40,128,184);
 	background: -moz-linear-gradient(top, rgba(40,128,184) 0%, rgba(169, 75, 38) 56%, rgba(40,128,184) 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(40,128,184)), color-stop(56%, rgba(169, 75, 38)), color-stop(100%, rgba(40,128,184)));
