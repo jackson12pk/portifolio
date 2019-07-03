@@ -179,11 +179,11 @@ nav.shift ul li a:hover:after {
 	position: absolute;
 	bottom: 0;
 	z-index: 50;
-	height: 150px;
+	height: 250px;
 	width: 100%;
 	background-color: rgba(0,17,23, 0.8);
 	color: #788589;
-	padding: 25px 0;
+	padding: 60px 0;
 }
 
 footer h1{
