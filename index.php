@@ -29,6 +29,7 @@
   <div class="wrapper text-center">
    <div class="container">
      <header><h1>Sobre</h1></header>
+     <div class="col-md-10 col-md-offset-1">
      <div class="jumbotron foo-1">
        <p>Olá, Sejam Bem-vindos!</p>
 
@@ -49,8 +50,9 @@
        </ul>
      </div>
 
-
    </div><!-- /.jumbotron -->
+   </div><!-- /.col-md-10 -->
+
  </div><!-- /.container -->
 </div><!-- /.wrapper -->
 </section>
