@@ -110,7 +110,7 @@ p{
 
 
 .navbar-default .navbar-nav>li>a{
-	color: #fff;
+	color: #ccc;
 	font-size: 1.125em;
 	font-weight: 400;
 	transition: all 0.25s ease-in-out;
@@ -484,7 +484,7 @@ Version: 1.0;
 
 	.navbar-nav > li > a{
 		text-align: center;
-		color: #ddd!important;
+		color: #ccc!important;
 	}
 
 	.collapse.in{
