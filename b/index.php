@@ -30,40 +30,40 @@
     <div class="row hidden-xs">
       <div class="col-md-3">
         <a data-fancybox="gallery" href="assets/img/1.jpg">
-          <figure><img src="assets/img/1.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/1.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/7.jpg">
-          <figure><img src="assets/img/7.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/7.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/10.jpg">
-          <figure><img src="assets/img/10.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/10.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div> 
       <div class="col-md-3">
         <a data-fancybox="gallery" href="assets/img/4.jpg">
-          <figure><img src="assets/img/4.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/4.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/5.jpg">
-          <figure><img src="assets/img/5.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/5.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div> 
       <div class="col-md-3">
         <a data-fancybox="gallery" href="assets/img/3.jpg">
-          <figure><img src="assets/img/3.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/3.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/6.jpg">
-          <figure><img src="assets/img/6.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/6.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/2.jpg">
-          <figure><img src="assets/img/2.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/2.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div>
       <div class="col-md-3">
         <a data-fancybox="gallery" href="assets/img/8.jpg">
-          <figure><img src="assets/img/8.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/8.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/9.jpg">
-          <figure><img src="assets/img/9.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/9.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div>
     </div>
@@ -71,36 +71,36 @@
     <div class="row visible-xs">
       <div class="col-xs-6">
         <a data-fancybox="gallery" href="assets/img/4.jpg">
-          <figure><img src="assets/img/4.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/4.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/7.jpg">
-          <figure><img src="assets/img/7.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/7.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/5.jpg">
-          <figure><img src="assets/img/5.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/5.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/9.jpg">
-          <figure><img src="assets/img/9.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/9.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/10.jpg">
-          <figure><img src="assets/img/10.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/10.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div> 
       <div class="col-xs-6">
         <a data-fancybox="gallery" href="assets/img/6.jpg">
-          <figure><img src="assets/img/6.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/6.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/1.jpg">
-          <figure><img src="assets/img/1.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/1.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/2.jpg">
-          <figure><img src="assets/img/2.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/2.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/8.jpg">
-          <figure><img src="assets/img/8.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/8.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/3.jpg">
-          <figure><img src="assets/img/3.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/3.jpg" alt="" class="img-responsive transitions"></figure>
         </a>
       </div>
     </div>
