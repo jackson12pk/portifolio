@@ -71,10 +71,10 @@
     <div class="row visible-xs">
       <div class="col-xs-6">
         <a data-fancybox="gallery" href="assets/img/4.jpg">
-          <figure class="foo-1"><img src="assets/img/4.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/4.jpg" alt="" class="img-responsive"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/7.jpg">
-          <figure class="foo-2"><img src="assets/img/7.jpg" alt="" class="img-responsive"></figure>
+          <figure><img src="assets/img/7.jpg" alt="" class="img-responsive"></figure>
         </a>
         <a data-fancybox="gallery" href="assets/img/5.jpg">
           <figure><img src="assets/img/5.jpg" alt="" class="img-responsive"></figure>
@@ -115,25 +115,13 @@
 <!-- Page Js -->
 <?php include 'assets/inc/js.php' ?>
 
-<!-- Scroll-Reveal -->
-<script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
-
 <!-- Scroll -->
 <script src="assets/js/scroll.js"></script>
 
 <!-- Load -->
 <script src="assets/js/load.js"></script>
 
-<script>
-  window.sr = ScrollReveal({ reset: true });
 
-  sr.reveal('.foo-1', { duration: 700, reset:true, delay:300 });
-  sr.reveal('.foo-2', { duration: 700, reset:true, delay:450 });
-  sr.reveal('.foo-3', { duration: 700, reset:true, delay:650 });
-  sr.reveal('.foo-4', { duration: 700, reset:true, delay:850 });
-  sr.reveal('.foo-5', { duration: 700, reset:true, delay:1050 });
-
-</script>
 
 
 </body>
