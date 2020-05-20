@@ -35,7 +35,7 @@
 
 
        <div class="skills">
-        <h2>Me chamo Jackson Pereira, tenho 24 anos, sou formado em Sistemas de Informação pela Faculdade Joaquim Nabuco e atualmente trabalho como <b>Desenvolvedor Web</b>, aqui estão algumas de minhas <b>Habilidades:</b></h2>
+        <h2>Me chamo Jackson Pereira, tenho 25 anos, sou formado em Sistemas de Informação pela Faculdade Joaquim Nabuco e atualmente trabalho como <b>Desenvolvedor Web</b>, aqui estão algumas de minhas <b>Habilidades:</b></h2>
         <ul>
          <li>• HTML</li>
          <li>• CSS</li>
