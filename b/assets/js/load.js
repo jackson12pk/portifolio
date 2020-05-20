@@ -1,4 +1,4 @@
-$(window).on("load", function() {
-  "use strict";
-  $('.loading').fadeOut();
-});
+// $(window).on("load", function() {
+//   "use strict";
+//   $('.loading').fadeOut();
+// });
